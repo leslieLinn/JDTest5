@@ -5,4 +5,5 @@ package www.leslie.org.jdtest3;
  */
 
 public class Person {
+    String userName;
 }
